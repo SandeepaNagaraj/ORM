@@ -46,9 +46,9 @@ admin.site.register(Player,Player_Admin)
 
 ## OUTPUT
 
-![Alt text](image.png)
+![image](https://github.com/SandeepaNagaraj/ORM/assets/113017853/035d7368-8fca-4192-bf3f-12a22e1029d9)
 
-![Alt text](image-1.png)
+![image-1](https://github.com/SandeepaNagaraj/ORM/assets/113017853/347d85a0-c505-4633-9d25-7c1e9e1f3c14)
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
